@@ -1,0 +1,13 @@
+{
+  "rows": 11430,
+  "columns": 89,
+  "missing_cells": 0,
+  "exact_duplicates_removed": 0,
+  "class_counts": {
+    "legitimate": 5715,
+    "phishing": 5715
+  },
+  "features_used": 81,
+  "best_model_by_cv_f1": "Random Forest",
+  "url_only_cv_f1": 0.8640314843163486
+}
